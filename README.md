@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <html>
 <pre>
 <code class="language-bash">$ whoami | head -n 4
-⚡ I work as a Product Lead at Cumulus Nexus India Pvt Ltd 🧮. 
-👯 I’m looking to collaborate on Python, PHP, API Building, Cloud Optimization Tools
+⚡ I work as a Product Lead at Cirrus Nexus 🧮. 
+👯 I’m looking to collaborate on Python, Machine Learning, Data Engineering, ML Ops, Cloud Optimization Tools
 💬 I promote cloud literacy and can help companies cut their cloud costs by providing planned strategies. 
 😄 I enjoy problem-solving🔭, breaking through puzzles🧩 and programming 👾 as my working hobby.
 📫 Contact me 📧 : <a href="mailto:chaitanya.vankadaru@gmail.com">chaitanya[dot]vankadaru[at]gmail[dot]com</a>. </code>
