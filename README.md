@@ -1,6 +1,6 @@
 # Hello, I'm Chaitanya 👋  
 
-Welcome to my GitHub! I'm a **Data & AI Solutions Architect** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Science, Data Engineering, MLOps, and Business Analytics**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
+Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Analytics, Data Science, Data Engineering, MLOps, and Business Analytics**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
 
 ---
 
