@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 
 - ⚡ **Former Product Lead** at Cirrus Nexus (Cumulus Nexus India Pvt Ltd)
 - 👨‍💻 Experienced in **Python, R, SQL, Rust, C++, Go, Terraform**, and advanced ML frameworks like **TensorFlow, PyTorch**, and **Scikit-Learn**
-- ☁️ Proficient in **Cloud Platforms**: AWS (SageMaker, Redshift, Lambda), Azure (Synapse, ML Studio), GCP (BigQuery, AI Platform); Certified in AWS, Azure, GCP, and Kubernetes
+- ☁️ Proficient in **Cloud Platforms**: AWS (SageMaker, Glue, Redshift, Lambda), Azure (Data Factory, Synapse, HDInsight, ML Studio), GCP (BigQuery, Looker, Vertex AI Platform); Certified in AWS, Azure, GCP, and Kubernetes
 - 📊 Skilled in **Data Engineering** (ETL, Data Modeling, Real-Time Streaming), **MLOps** (CI/CD, Model Deployment), and **Data Science** (Predictive Modeling, NLP, Computer Vision)
 - 💬 Advocate for **Cloud Cost Optimization** strategies, helping companies cut costs while improving performance through structured planning
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 
 ## 🔭 Projects
 
-- **Data Engineering & Big Data Pipelines** – Architecting and optimizing ETL pipelines for large-scale data processing with **Apache Spark**, **Airflow**, **Snowflake**, and **Fivetran**
+- **Data Engineering & Big Data Pipelines** – Architecting and optimizing ETL pipelines for large-scale data processing with **Apache Spark**, **Flink**, **Superset**, **Dagster**, **Druid**,**Delta lakee**,**dbt**,**Airflow**, **Snowflake**, and **Fivetran**
 - **MLOps Pipelines** – Building end-to-end ML pipelines with **Kubernetes**, **Docker**, **Jenkins**, and **Kubeflow** to automate model training and deployment, with a focus on scalability and CI/CD workflows
 - **Generative AI & NLP Models** – Developing cutting-edge models for NLP, including language models and sentiment analysis, using transformer architectures
 - **Cloud Infrastructure Optimization** – Implementing efficient infrastructure using **Terraform** and **IaC** (Infrastructure as Code) to optimize cloud resources on AWS, Azure, and GCP
@@ -35,11 +35,11 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 
 ### Data Engineering & ETL
 - **Tools & Platforms:** Apache Spark, Kafka, Hadoop, Snowflake, Databricks, Apache Airflow, Fivetran, dbt
-- **Cloud & Big Data:** AWS (Lambda, RDS, S3, EMR, Redshift), Azure Synapse, GCP BigQuery, Snowflake
+- **Cloud & Big Data:** AWS (Lambda, Glue, RDS, S3, EMR, Redshift), Azure Data Factory, Azure Databricks, Azure Synapse, GCP BigQuery, Snowflake
 - **Skills:** Data Pipeline Design, ETL Optimization, Data Modeling, Real-Time Data Streaming
 
 ### Data Science & Machine Learning
-- **Languages & Libraries:** Python, R, SQL, Scikit-Learn, TensorFlow, PyTorch, Keras, Pandas, Dask
+- **Languages & Libraries:** Python, R, Julia, Scala, Java, SQL, Scikit-Learn, TensorFlow, PyTorch, PySpark, Keras, Pandas, Dask
 - **Specializations:** Predictive Modeling, Time Series, NLP, Deep Learning, Hyperparameter Tuning, Computer Vision
 
 ### MLOps & DevOps
