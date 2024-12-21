@@ -1,6 +1,6 @@
 # Hello, I'm Chaitanya 👋  
 
-Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Analytics, Data Science, Data Engineering, MLOps, and Business Analytics**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
+Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Analytics, Data Science, Data Engineering, MLOps, and Business Analytics with keen interest in AI Applications**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
 
 ---
 
@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 - ☁️ Proficient in **Cloud Platforms**: AWS (SageMaker, Glue, Redshift, Lambda), Azure (Data Factory, Synapse, HDInsight, ML Studio), GCP (BigQuery, Looker, Vertex AI Platform); Certified in AWS, Azure, GCP, and Kubernetes
 - 📊 Skilled in **Data Engineering** (ETL, Data Modeling, Real-Time Streaming), **MLOps** (CI/CD, Model Deployment), and **Data Science** (Predictive Modeling, NLP, Computer Vision)
 - 💬 Advocate for **Cloud Cost Optimization** strategies, helping companies cut costs while improving performance through structured planning
+- 🤖 Specialized in **Natural Language Processing**, **Large Language Models (LLMs)**, Retrieval Augmented Generation (RAG), **FAISS**, AI Agents, and Vector Databases
 
 ---
 
@@ -20,6 +21,7 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 - **MLOps Pipelines** – Building end-to-end ML pipelines with **Kubernetes**, **Docker**, **Jenkins**, and **Kubeflow** to automate model training and deployment, with a focus on scalability and CI/CD workflows
 - **Generative AI & NLP Models** – Developing cutting-edge models for NLP, including language models and sentiment analysis, using transformer architectures
 - **Cloud Infrastructure Optimization** – Implementing efficient infrastructure using **Terraform** and **IaC** (Infrastructure as Code) to optimize cloud resources on AWS, Azure, and GCP
+- **Generative AI & LLMs** – Building production-ready LLM applications using LangChain, LlamaIndex, and Vector Databases (Pinecone, Weaviate, Milvus). Implementing RAG pipelines with custom knowledge bases and hybrid search strategies. Designing AI Agents using CrewAI, Weaviate and other tools.
 
 ---
 
@@ -28,6 +30,7 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 - **Scaling Machine Learning Operations** – Expanding knowledge in **MLflow**, **Argo**, and advanced MLOps for seamless deployment and monitoring of ML models
 - **Distributed Systems & Real-Time Analytics** – Exploring **Apache Flink**, **Kafka**, and **Delta Lake** for real-time analytics and streaming solutions
 - **Advanced Data Engineering** – Diving deeper into data warehouse and data lake architecture, leveraging platforms like **Snowflake** and **Databricks**
+- **Advanced LLM Engineering** – Exploring LLM fine-tuning, prompt engineering, and context window optimization techniques for enterprise applications
 
 ---
 
@@ -49,6 +52,11 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 ### Data Visualization & Business Analysis
 - **Visualization Tools:** Power BI, Tableau, Plotly, Matplotlib, ggplot2
 - **Business Tools:** JIRA, Confluence, Lucidchart, Microsoft Visio, Business Process Mapping, Requirements Analysis
+
+### Generative AI & LLMs
+- **Frameworks**: LangChain, LlamaIndex, Semantic Kernel, OpenAI API, Anthropic API
+- **Vector Databases**: Pinecone, Weaviate, Milvus, Chroma, FAISS
+- **Skills**: RAG Pipeline Design, Prompt Engineering, LLM Fine-tuning, Embedding Optimization, Context Window Management
 
 ---
 
@@ -81,13 +89,17 @@ Welcome to my GitHub! I'm a **Data guy (analytics/engineering/science)** with a 
 - **Tools:** Python, Apache Airflow, AWS SageMaker
 - **Summary:** Created an ML pipeline automating data preprocessing, model training, and deployment, reducing operational costs by **14%** while maintaining high model performance.
 
+### LLM-Powered Document Assistant
+- **Tools**: LangChain, OpenAI API, ChromaDB
+- **Summary**: Built a Q&A system over internal documentation using RAG, achieving 85% query relevance while reducing response time by 60% compared to manual searches.
+
 ---
 
 ## 💬 Let’s Connect!
 
 - 📫 **Email**: [chaitanya.vankadaru@gmail.com](mailto:chaitanya.vankadaru@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/chaitanyavankadaru](https://www.linkedin.com/in/chaitanyavankadaru/)
-- 📝 **Blog**: Coming soon, where I'll share insights on data engineering, MLOps, and AI-driven strategies!
+- 📝 **Blog/Newsletter**: Coming soon, where I'll share insights on data engineering, MLOps, and AI-driven strategies!
 
 ---
 
