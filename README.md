@@ -101,7 +101,7 @@ I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a M
 
 - 📫 **Email**: [chaitanya.vankadaru@gmail.com](mailto:chaitanya.vankadaru@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/chaitanyavankadaru](https://www.linkedin.com/in/chaitanyavankadaru/)
-- 📝 **Blog/Newsletter**: Coming soon, where I'll share insights on data engineering, MLOps, and AI-driven strategies!
+- 📝 **Blog/Newsletter**: [Chai & Data](https://chaidata.substack.com/)
 
 ---
 
