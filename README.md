@@ -1,6 +1,6 @@
 # Hello, I'm Chaitanya 👋  
 
-7+ years of work experience in fields of Data Analytics & Engineering, Software Development, End-to-End Data Processes, Machine Learning and AI Engineering.
+8+ years of work experience in fields of Data Science, Data Analytics & Engineering, Software Development, End-to-End Data Processes, Machine Learning and AI Engineering.
 
 I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Analytics, Data Science, Data Engineering, MLOps, and Business Analytics with keen interest in AI Applications**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
 
@@ -9,7 +9,7 @@ I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a M
 ## 🛠️ About Me
 
 - ⚡ **Former Product Lead** at Cirrus Nexus (Cumulus Nexus India Pvt Ltd)
-- 👨‍💻 Experienced in **Python, R, SQL, Rust, C++, Go, Terraform**, and advanced ML frameworks like **TensorFlow, PyTorch**, and **Scikit-Learn**
+- 👨‍💻 Experienced in **Python, R, SQL, Rust, C++, Go, Terraform**, and advanced ML frameworks like **TensorFlow, PyTorch, Computer Vision**, and **Scikit-Learn**
 - ☁️ Proficient in **Cloud Platforms**: AWS (SageMaker, Glue, Redshift, Lambda), Azure (Data Factory, Synapse, HDInsight, ML Studio), GCP (BigQuery, Looker, Vertex AI Platform); Certified in AWS, Azure, GCP, and Kubernetes
 - 📊 Skilled in **Data Engineering** (ETL, Data Modeling, Real-Time Streaming), **MLOps** (CI/CD, Model Deployment), and **Data Science** (Predictive Modeling, NLP, Computer Vision)
 - 💬 Advocate for **Cloud Cost Optimization** strategies, helping companies cut costs while improving performance through structured planning
@@ -73,7 +73,7 @@ I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a M
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Few Projects
 
 ### Humana-Mays Case Competition
 - **Tools:** R, SQL, Tableau, ETL
@@ -101,7 +101,7 @@ I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a M
 
 - 📫 **Email**: [chaitanya.vankadaru@gmail.com](mailto:chaitanya.vankadaru@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/chaitanyavankadaru](https://www.linkedin.com/in/chaitanyavankadaru/)
-- 📝 **Portfolio**: [Chaitanya Vankadaru - Portfolio](https://chai-data.netlify.app/)
+- 📝 **Portfolio**: [Chaitanya Vankadaru - Portfolio](https://chaivan.me/)
 - 📝 **Blog/Newsletter**: [Chai & Data](https://chaidata.substack.com/)
 
 ---
