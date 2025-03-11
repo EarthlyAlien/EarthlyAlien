@@ -1,8 +1,8 @@
 # Hello, I'm Chaitanya 👋  
 
-8+ years of work experience in fields of Data Science, Data Analytics & Engineering, Software Development, End-to-End Data Processes, Machine Learning and AI Engineering.
+7+ years of work experience in fields of Data Science, Machine Learning, NLP/AI Engineering Data Analytics & Engineering, Software Development, End-to-End Data Processes.
 
-I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Analytics, Data Science, Data Engineering, MLOps, and Business Analytics with keen interest in AI Applications**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
+I'm a **Data guy (analytics/engineering/science and little bit of AI)** with a Master’s in Advanced Data Analytics and a solid foundation in **Data Science, MLOps, LLMOps, FMOps, Data Analytics, Data Engineering, and Business Analytics with keen interest in AI Applications**. I’m passionate about building data-driven solutions that drive growth, innovation, and operational efficiency. My background spans data architecture, scalable ML pipelines, cloud computing, and actionable insights that help teams make strategic decisions.
 
 ---
 
